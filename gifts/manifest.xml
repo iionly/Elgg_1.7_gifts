@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="iionly (for Elgg 1.7), Galdrapiu, Christian Heckelmann" />
+        <field key="version" value="0.2.0" />
+        <field key="description" value="Send Gifts to your Friends" />
+        <field key="website" value="https://github.com/iionly" />
+        <field key="copyright" value="(C) iionly 2010 (for Elgg 1.7), (C) Galdrapiu 2009, (C) Christian Heckelmann 2009" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2009022701" />
+</plugin_manifest>
